@@ -1,12 +1,12 @@
 {
-  "name": "jupyter-elm-widget",
+  "name": "jupyter-javascript-eval-widget",
   "version": "0.1.0",
-  "description": "Embedded Elm widgets for Jupyter",
+  "description": "Embed Javascript widgets in Jupyterlab",
   "author": "Rehno Lindeque",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rehno-lindeque/jupyter-elm-widget.git"
+    "url": "https://github.com/rehno-lindeque/jupyter-javascript-eval-widget.git"
   },
   "keywords": [
     "jupyter",
